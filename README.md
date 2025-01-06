@@ -66,5 +66,5 @@ Tasktris is currently available as a prototype. It showcases my technical skills
 If you're interested in learning more about Tasktris or discussing my qualifications for a software engineering internship, please feel free to reach out:
 
 - **Email:** [JesseDong9@gmail.com](mailto:JesseDong9@gmail.com)
-- **LinkedIn:** [Jesse-Dong](linkedin.com/in/jesse-dong)
+- **LinkedIn:** [Jesse-Dong](https://linkedin.com/in/jesse-dong)
 - **GitHub:** [Tasktris Repository](https://github.com/d0ngii/tasktris)
