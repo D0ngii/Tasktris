@@ -1,50 +1,67 @@
-# Welcome to Tasktris 👋
+# Tasktris
 
-This is a personal project of mine where I have attempted to create a functional react native application.
+Tasktris is a productivity app that gamifies task management by integrating elements of the classic Tetris game. This project demonstrates my ability to design, develop, and deploy a full-stack application using modern technologies while focusing on user experience and interactive design.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Task Gamification:** Transform tasks into Tetris pieces that fit into a customizable board.
+- **Real-Time Progress Visualization:** Visualize productivity by completing rows on the Tetris board with tasks.
+- **Customizable Boards:** Choose different difficulty levels and board sizes to tailor the app to individual productivity needs.
+- **Progress Tracking:** Track and manage daily, weekly, and monthly productivity metrics.
+- **Dark Mode:** A sleek UI with a dark mode for reduced eye strain and better focus.
 
-   ```bash
-   npm install
-   ```
+## Technologies Used
 
-2. Start the app
+### Frontend
 
-   ```bash
-    npx expo start
-   ```
+- **React Native:** For building a cross-platform mobile application with a responsive UI.
+- **TailwindCSS:** For rapid and consistent styling across the app.
 
-In the output, you'll find options to open the app in a
+### Backend
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Appwrite:** A backend-as-a-service platform for user authentication, database management, and API integrations.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Other Tools
 
-## Get a fresh project
+- **Version Control:** Git and GitHub for collaborative development and version management.
+- **Design Tools:** Figma for prototyping the app's user interface.
 
-When you're ready, run:
+## Key Learning Outcomes
 
-```bash
-npm run reset-project
-```
+1. **Gamification in Productivity Tools:** Implemented game mechanics to enhance user engagement and promote task completion.
+2. **Full-Stack Development:** Successfully built an application from scratch using a full-stack development approach.
+3. **User-Centric Design:** Focused on crafting an intuitive and visually appealing interface that caters to users’ needs.
+4. **State Management:** Managed complex interactions between the game board and task list efficiently.
+5. **Performance Optimization:** Ensured a seamless user experience by optimizing rendering and API calls.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## How It Works
 
-## Learn more
+1. **Task Input:** Users add tasks to their to-do list.
+2. **Tetris Mechanics:** Each task corresponds to a Tetris piece, varying in size based on the task's difficulty.
+3. **Board Completion:** Tasks are "completed" by fitting them into the Tetris board. Completing rows earns points and clears space for more tasks.
+4. **Tracking Progress:** Users can view progress over time and adjust strategies for better productivity.
 
-To learn more about developing your project with Expo, look at the following resources:
+## Challenges Faced
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- **Integrating Game Logic:** Balancing Tetris mechanics with task management features was a unique and challenging task.
+- **Backend Integration:** Setting up secure user authentication and efficient data storage with Appwrite.
+- **Real-Time Updates:** Ensuring seamless synchronization between task completion and the Tetris board.
 
-## Join the community
+## Future Enhancements
 
-Join our community of developers creating universal apps.
+- **Collaborative Boards:** Allow multiple users to collaborate on shared boards.
+- **Leaderboard:** Introduce a global leaderboard to foster competition and motivation.
+- **Advanced Analytics:** Provide insights into productivity patterns and offer actionable suggestions.
+- **Custom Themes:** Add user-selectable themes for personalization.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Deployment
+
+Tasktris is currently available as a prototype. It showcases my technical skills and is a work in progress with potential for further development.
+
+## Contact
+
+If you're interested in learning more about Tasktris or discussing my qualifications for a software engineering internship, please feel free to reach out:
+
+- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **GitHub:** [Tasktris Repository](https://github.com/yourusername/tasktris)
