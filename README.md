@@ -1,4 +1,4 @@
-# Tasktris
+# Tasktris ![icon](./assets/images/logo-small.png)
 
 Tasktris is a productivity app that gamifies task management by integrating elements of the classic Tetris game. This project demonstrates my ability to design, develop, and deploy a full-stack application using modern technologies while focusing on user experience and interactive design.
 
