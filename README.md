@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to Tasktris 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a personal project of mine where I have attempted to create a functional react native application.
 
 ## Get started
 
