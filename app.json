@@ -4,7 +4,7 @@
     "slug": "React",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/favicon",
+    "icon": "./assets/images/favicon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -13,8 +13,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "package": "com.jsm.aora"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
@@ -29,7 +28,8 @@
     },
     "plugins": [
       "expo-router",
-      "expo-font"
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true

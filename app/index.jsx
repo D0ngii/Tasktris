@@ -5,7 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { images } from "../constants";
 import { CustomButton } from "../components";
 import { useGlobalContext } from "../context/GlobalProvider";
-
+import { styleSheet } from 'nativewind';
 import { useEffect } from "react";
 export default function App() {
   const { loading, isLoggedIn } = useGlobalContext();
