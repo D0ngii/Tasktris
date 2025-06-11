@@ -30,8 +30,15 @@ Tasktris is a productivity app that gamifies task management by integrating elem
 ## Demo
 
 <div align="center">
-  <img src="/demo/IMG_6720.PNG" alt="Image 1" width="45%">
-  <img src="/demo/IMG_6721.PNG" alt="Image 2" width="45%">
+  <img src="/demo/IMG_6720.PNG" alt="Image 1" width="20%">
+  <img src="/demo/IMG_6721.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6724.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6725.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6726.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6729.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6730.PNG" alt="Image 2" width="20%">
+  <img src="/demo/IMG_6732.PNG" alt="Image 2" width="20%">
+
 </div>
 
 ## Key Learning Outcomes
