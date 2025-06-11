@@ -27,6 +27,13 @@ Tasktris is a productivity app that gamifies task management by integrating elem
 - **Version Control:** Git and GitHub for collaborative development and version management.
 - **Design Tools:** Figma for prototyping the app's user interface.
 
+## Demo
+
+<div align="center">
+  <img src="/demo/IMG_6720.PNG" alt="Image 1" width="45%">
+  <img src="/demo/IMG_6721.PNG" alt="Image 2" width="45%">
+</div>
+
 ## Key Learning Outcomes
 
 1. **Gamification in Productivity Tools:** Implemented game mechanics to enhance user engagement and promote task completion.
