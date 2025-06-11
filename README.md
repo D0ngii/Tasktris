@@ -37,7 +37,7 @@ Tasktris is a productivity app that gamifies task management by integrating elem
 
 ## How It Works
 
-1. **Task Input:** Users add tasks to their to-do list.
+1. **Task Input:** Users add tasks and frequency.
 2. **Tetris Mechanics:** Each task corresponds to a Tetris piece, varying in size based on the task's difficulty.
 3. **Board Completion:** Tasks are "completed" by tapping the corresponding tetris piece once completed.
 4. **Tracking Progress:** Users can view progress over time and adjust strategies for better productivity.
