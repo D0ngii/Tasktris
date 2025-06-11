@@ -47,7 +47,7 @@ const SignUp = () => {
             className="w-[255px] h-[155px]"
           />
           <Text className="text-2xl text-white text-semibold font-retro ">
-            Sign up to Aora
+            Sign up to TaskTris
           </Text>
           <FormField
             title="Username"

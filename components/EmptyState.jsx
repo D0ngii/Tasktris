@@ -12,7 +12,7 @@ const EmptyState = ({ title, subtitle }) => {
     }
   };
   return (
-    <View className="justify-center items-center px-4">
+    <View className="justify-center items-center px-4 flex-1">
       {/* <Image
         source={images.empty}
         className="w-[270px] h-[215px]"

@@ -49,9 +49,12 @@ const Profile = () => {
         ListHeaderComponent={() => (
           <View className="w-full justify-center items-center mt-6 mb-12 px-4">
             <TouchableOpacity
-              className="w-full items-end mb-10"
+              className="w-full flex-row items-center justify-end mb-10"
               onPress={logout}
             >
+              <Text className="mr-2 font-retro text-secondary-green">
+                Logout
+              </Text>
               <Image
                 source={icons.logout}
                 resizeMode="contain"
@@ -80,6 +83,7 @@ const Profile = () => {
               <InfoBox
                 title={getCompleted()}
                 subtitle="Completed"
+                containerStyles="justify-center items-center"
                 titleStyles="text-xl"
               />
             </View>
@@ -87,8 +91,8 @@ const Profile = () => {
         )}
         ListEmptyComponent={() => (
           <EmptyState
-            title="No Videos Found"
-            subtitle="No videos found for this search query"
+            title="No Boards Found"
+            // subtitle="Get Started With the Create Board Button!"
           />
         )}
         refreshControl={

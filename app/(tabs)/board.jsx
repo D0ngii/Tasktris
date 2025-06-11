@@ -27,7 +27,7 @@ const Board = () => {
   const [refreshing, setRefreshing] = useState(false);
   const [boardData, setBoardData] = useState([]);
   const { data: user } = useAppwrite(getCurrentUser);
-  const boardTitle = activeBoard?.title || "Undefined";
+  const boardTitle = activeBoard?.title || "Get Started";
   const boardWidth = activeBoard?.width || 0;
   const [rawGoals, setRawGoals] = useState([]);
   const [isUpdating, setIsUpdating] = useState(false);
